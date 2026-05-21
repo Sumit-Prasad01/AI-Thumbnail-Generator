@@ -6,3 +6,4 @@ openai
 imagekitio
 httpx
 python-multipart
+google-genai
