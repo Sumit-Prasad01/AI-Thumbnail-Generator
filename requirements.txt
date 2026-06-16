@@ -2,8 +2,8 @@ fastapi
 uvicorn
 sqlmodel
 python-dotenv
-openai
 imagekitio
 httpx
 python-multipart
 google-genai
+streamlit
